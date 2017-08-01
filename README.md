@@ -9,8 +9,8 @@ Runs and builds on Unity version 5.3
 
 The classmate who was supposed to implement the tutorial and story was too ill to do this
 
-Documentation about the game: https://docs.google.com/document/d/1F5fhgkdNxBxiriVZzB12RU-MkU6erfF9cPIW_OM53Dw/edit?usp=sharing
-Documentation about the inspiration and description for the game: https://docs.google.com/document/d/1s4XquUewCcD8ioRxzI3nYWns0NyHPzxIUmk8VHg5R_Y/edit?usp=sharing
+Documentation about the game: https://drive.google.com/open?id=0ByrMPfX97AGvcV9oU0Q5YktzajQ
+Documentation about the inspiration and description for the game: https://drive.google.com/open?id=0ByrMPfX97AGvSkF6eHJBMXNzNGc
 
 
 Controls:
