@@ -10,6 +10,7 @@ Runs and builds on Unity version 5.3
 The classmate who was supposed to implement the tutorial and story was too ill to do this
 
 Documentation about the game: https://drive.google.com/open?id=0ByrMPfX97AGvcV9oU0Q5YktzajQ
+
 Documentation about the inspiration and description for the game: https://drive.google.com/open?id=0ByrMPfX97AGvSkF6eHJBMXNzNGc
 
 
