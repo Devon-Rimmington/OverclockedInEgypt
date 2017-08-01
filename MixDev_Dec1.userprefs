@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StorySession.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraRay.cs" Line="10" Column="13" />
+      <File FileName="Assets\Scripts\characterStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\fireProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EquiptmentSwap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StorySession.cs" Line="71" Column="33" />
+      <File FileName="Assets\Scripts\StorySpot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

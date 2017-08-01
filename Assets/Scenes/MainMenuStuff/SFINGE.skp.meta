@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: dd193381429969a4596cce32be770488
+timeCreated: 1449541742
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1ca62062b258051d30c0f6d68f754027
+  longitude: 31.137716871379642
+  latitude: 29.975041327091599
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 72.6368332, y: 24.1434097, z: -9.78610706}
+      lookAt: {x: 32.7097626, y: 13.0647526, z: 6.46684361}
+      up: {x: -.230538666, y: .968527317, z: .0938444585}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.1636038, y: 8.67860699, z: -13.2107239}
+        lookAt: {x: 1.64758599, y: 2.21894169, z: 6.88412333}
+        up: {x: -.139169112, y: .964731276, z: .22344026}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2D_Man_Backpack
+    100002: Google Earth Terrain
+    100004: Group 8
+    100006: //RootNode
+    400000: 2D_Man_Backpack
+    400002: Google Earth Terrain
+    400004: Group 8
+    400006: //RootNode
+    2300000: 2D_Man_Backpack
+    2300002: Google Earth Terrain
+    2300004: //RootNode
+    3300000: 2D_Man_Backpack
+    3300002: Google Earth Terrain
+    3300004: //RootNode
+    4300000: Mesh SFINGE
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh 2D_Man_Backpack
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
